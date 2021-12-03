@@ -1,0 +1,35 @@
+Introduction to Oops 
+Introduction to Java
+JDK VS JRE
+Java Tool (javac ,java ,javadoc)
+Hello World Example 
+Java Premitive Data Types
+Java Class and Object Initialisation
+Using this within class 
+Java Object Class
+Java Wrapper Classes (Boxing , Unboxing , AutoBoxing)
+Java Conditional Constructs (If , if-else , conditional Operator , switch case)
+Java Loop (for , while and enhanced for loop)
+Java String , String Buffer and String Builder Class
+Java Enums ( Enum Creation , defining custom values through Constructor in enum, custom methods inside enum
+Java Inheritance
+Abstract classes
+interfaces ( abstract method ,default method and static method)
+Functional Interfaces (
+what is functional interfaces ,
+Demo for Predicate,Consumer , Function , BIFunction , BIPredicate interfaces 
+Lambda Expression 
+Collection -
+List , Set interfaces classes
+Comparable interface
+Stream API
+    What is Stream API
+    Stream API Methods
+         Filter
+         map
+         collect
+        max
+        min
+       sorted
+       foreach
+Method Reference 
